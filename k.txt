@@ -57,3 +57,4 @@ public boolean addStudent(int stuType) {
 	return false;
 }
 }
+第二次提交
